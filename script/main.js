@@ -52,5 +52,6 @@
   theSubhead.firstChild.nodeValue = dynamicContent['spring'].headline;
   theSeasonText.firstChild.nodeValue = dynamicContent['spring'].text;
   theHeading.classList.add('spring');
+  //ha
 
 })();
